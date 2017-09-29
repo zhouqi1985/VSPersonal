@@ -1,0 +1,17 @@
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\DataTableOperator.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\DataTableOperator.pdb
+E:\VSProject\DataTableOperator\DataTableOperator\obj\Debug\DataTableOperator.dll
+E:\VSProject\DataTableOperator\DataTableOperator\obj\Debug\DataTableOperator.pdb
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\DataTableOperator.dll.config
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\CommonLibs.Common.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\CommonLibs.EnterpriseLibrary.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\EntityFramework.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\EntityFramework.SqlServer.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\Microsoft.Practices.Unity.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\EntityFramework.xml
+E:\VSProject\DataTableOperator\DataTableOperator\bin\Debug\EntityFramework.SqlServer.xml
+E:\VSProject\DataTableOperator\DataTableOperator\obj\Debug\DataTableOperator.csprojResolveAssemblyReference.cache
